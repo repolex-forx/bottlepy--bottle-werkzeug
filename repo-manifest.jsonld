@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/bottlepy/bottle-werkzeug/commit/77361e3e030189bd9320cb40e73ba441777ace61",
       "git:hexsha": "77361e3e030189bd9320cb40e73ba441777ace61",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
